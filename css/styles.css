@@ -1,5 +1,6 @@
 body{
     background-color: rgb(15, 15, 39);
+
 }
 .navbar{
     display: flex;
@@ -31,7 +32,6 @@ body{
     left: 10px;
     color: orange;
     padding-top: 2px;
-    font-family: 'Indie Flower', cursive;
     font-size: 25px;
     
 }
