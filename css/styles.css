@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(15, 15, 39);
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+   
+
+    
+}
+.navigate ul li {  
+    display: inline;
+    list-style: none;
+  
+}
+.navigate{
+    position: absolute;
+    right:10px;
+}
+.navigate a{
+    text-decoration: none;
+    list-style: none;
+    color: antiquewhite;
+    padding: 10px;
+    position: relative;
+    right: 10px;
+}
+.logo{
+    position: absolute;
+    float: left;
+    left: 10px;
+    color: orange;
+}
