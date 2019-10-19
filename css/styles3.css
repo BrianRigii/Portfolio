@@ -42,11 +42,20 @@
     color: orange;
     padding-top: 2px;
     font-family: 'Dancing Script', cursive;
-    font-size: 25px;
+    
     
 }
 .navigate ul li :hover{
     background-color: orange;
     transition: 0.8s;
     border-radius: 5px;
+}
+.skillset {
+    display: flex;
+    justify-content: space-around;
+}
+.textskill{
+  position: absolute;
+  left: 10vh;
+   
 }
