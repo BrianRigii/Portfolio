@@ -57,5 +57,16 @@
 .textskill{
   position: absolute;
   left: 10vh;
+  top: 50vh;
+  color: aliceblue;
    
 }
+.textskill h2 {
+    color: orange;
+    text-decoration-line: underline;
+}
+.textskill ul li{
+    list-style: none;
+
+  }
+  
